@@ -1,0 +1,15 @@
+
+.parkedCarsWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.parkedCars {
+    display: flex;
+    flex-direction: row;
+}
+
+.parkedCar {
+    padding: 8px;
+}
